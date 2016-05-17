@@ -1,2 +1,7 @@
 # Foundations-of-Data-Analysis-Pt-1
-My R code from the UTAustinX: UT.7.10x course on edx.org:   https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-10x
+
+In order for me to improve my analysis and become a better data scientist, I am going through this UTAustinX edx course. Though archived so I want receieve a grade I believe the knowlede to be extremely useful. I will be adding my own twists to the labs however.
+
+I will be using packages like dplyr and ggplot2 so that I may continue to practice the skills I started learning while I learn the statistical ones. 
+
+I hope you may enjoy seeing my takes as well as my growth
